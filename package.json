@@ -1,0 +1,10 @@
+{
+  "name": "m-pavan-kumar-ca",
+  "version": "1.0.0",
+  "description": "Exact clone of website for M Pavan Kumar & Co.",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve -p 3000 .",
+    "start": "npx serve -p 3000 ."
+  }
+}
